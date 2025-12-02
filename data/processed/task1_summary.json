@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "analysis_date": "2025-12-03 00:56:47",
+    "total_reviews": 266,
+    "banks_analyzed": [
+      "CBE",
+      "BOA",
+      "Dashen"
+    ],
+    "date_range": {
+      "start": "2025-06-07",
+      "end": "2025-12-03",
+      "days": 179
+    }
+  },
+  "overall_metrics": {
+    "average_rating": 3.0676691729323307,
+    "median_rating": 3.5,
+    "rating_distribution": {
+      "1": 61,
+      "2": 57,
+      "3": 15,
+      "4": 69,
+      "5": 64
+    },
+    "sentiment_distribution": {
+      "positive": 133,
+      "neutral": 15,
+      "negative": 118
+    },
+    "positive_percentage": 50.0,
+    "negative_percentage": 44.3609022556391,
+    "average_word_count": 7.5
+  },
+  "bank_performance": {
+    "CBE": {
+      "total_reviews": 90,
+      "average_rating": 3.022222222222222,
+      "positive_percentage": 50.0,
+      "negative_percentage": 44.44444444444444,
+      "average_word_count": 8.511111111111111,
+      "reply_rate": 23.333333333333332
+    },
+    "BOA": {
+      "total_reviews": 91,
+      "average_rating": 2.989010989010989,
+      "positive_percentage": 48.35164835164835,
+      "negative_percentage": 46.15384615384615,
+      "average_word_count": 7.417582417582418,
+      "reply_rate": 18.681318681318682
+    },
+    "Dashen": {
+      "total_reviews": 85,
+      "average_rating": 3.2,
+      "positive_percentage": 51.76470588235295,
+      "negative_percentage": 42.35294117647059,
+      "average_word_count": 6.517647058823529,
+      "reply_rate": 25.882352941176475
+    }
+  },
+  "time_analysis": {
+    "monthly_trends": {
+      "rating": {
+        "2025-06": 2.92,
+        "2025-07": 3.16,
+        "2025-08": 2.94,
+        "2025-09": 3.0,
+        "2025-10": 3.13,
+        "2025-11": 3.23,
+        "2025-12": 3.67
+      },
+      "review_id": {
+        "2025-06": 37,
+        "2025-07": 37,
+        "2025-08": 52,
+        "2025-09": 48,
+        "2025-10": 45,
+        "2025-11": 44,
+        "2025-12": 3
+      }
+    },
+    "recent_reviews_30d": 45,
+    "recent_reviews_90d": 133
+  },
+  "text_analysis": {
+    "common_phrases": {
+      "banking app": 33,
+      "mobile banking": 12,
+      "customer service": 10,
+      "app crash": 9,
+      "user friendly": 9,
+      "excellent app": 8,
+      "slow transfer": 5,
+      "biometric login": 5,
+      "login problem": 4,
+      "update issue": 3
+    },
+    "reviews_with_phrases": 95,
+    "average_phrases_per_review": 0.3684210526315789
+  },
+  "engagement_metrics": {
+    "total_thumbs_up": 4611,
+    "average_thumbs_up": 17.334586466165412,
+    "reviews_with_replies": 60,
+    "reply_rate_percentage": 22.55639097744361
+  },
+  "quality_metrics": {
+    "missing_values": 0,
+    "missing_percentage": 0.0,
+    "data_retention_rate": 100.0,
+    "unique_reviewers": 266
+  },
+  "business_insights": {
+    "best_performing_bank": "Dashen",
+    "worst_performing_bank": "BOA",
+    "most_engaged_bank": "Dashen",
+    "top_issues": [
+      "banking app",
+      "mobile banking",
+      "customer service",
+      "app crash",
+      "user friendly"
+    ],
+    "overall_satisfaction": "Moderate"
+  }
+}

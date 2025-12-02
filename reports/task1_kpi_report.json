@@ -1,0 +1,22 @@
+{
+  "total_reviews": 1200,
+  "missing_data_percentage": 0.0,
+  "reviews_per_bank": {
+    "CBE": 400,
+    "BOA": 400,
+    "Dashen": 400
+  },
+  "rating_distribution": {
+    "1": 6,
+    "2": 82,
+    "3": 305,
+    "4": 492,
+    "5": 315
+  },
+  "kpi_1200_reviews": true,
+  "kpi_5_percent_missing": true,
+  "date_range": {
+    "start": "2024-12-04",
+    "end": "2025-12-03"
+  }
+}
