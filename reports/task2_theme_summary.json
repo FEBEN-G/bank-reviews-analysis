@@ -1,0 +1,289 @@
+{
+  "overall": {
+    "login_issues": {
+      "count": 0,
+      "percentage": 0.0,
+      "description": "Problems with authentication and account access"
+    },
+    "transaction_problems": {
+      "count": 0,
+      "percentage": 0.0,
+      "description": "Issues with money transfers and transactions"
+    },
+    "app_performance": {
+      "count": 0,
+      "percentage": 0.0,
+      "description": "App crashes, freezes, and performance issues"
+    },
+    "user_interface": {
+      "count": 0,
+      "percentage": 0.0,
+      "description": "Feedback on app design and user experience"
+    },
+    "customer_support": {
+      "count": 0,
+      "percentage": 0.0,
+      "description": "Comments about customer support quality"
+    },
+    "security_concerns": {
+      "count": 0,
+      "percentage": 0.0,
+      "description": "Security and privacy concerns"
+    },
+    "feature_requests": {
+      "count": 0,
+      "percentage": 0.0,
+      "description": "Requests for new features or improvements"
+    },
+    "account_management": {
+      "count": 0,
+      "percentage": 0.0,
+      "description": "Issues related to account management"
+    }
+  },
+  "by_bank": {
+    "CBE": {
+      "login_issues": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "transaction_problems": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "app_performance": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "user_interface": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "customer_support": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "security_concerns": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "feature_requests": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "account_management": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    },
+    "BOA": {
+      "login_issues": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "transaction_problems": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "app_performance": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "user_interface": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "customer_support": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "security_concerns": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "feature_requests": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "account_management": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    },
+    "Dashen": {
+      "login_issues": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "transaction_problems": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "app_performance": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "user_interface": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "customer_support": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "security_concerns": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "feature_requests": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "account_management": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    }
+  },
+  "by_sentiment": {
+    "POSITIVE": {
+      "login_issues": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "transaction_problems": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "app_performance": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "user_interface": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "customer_support": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "security_concerns": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "feature_requests": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "account_management": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    },
+    "NEUTRAL": {
+      "login_issues": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "transaction_problems": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "app_performance": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "user_interface": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "customer_support": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "security_concerns": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "feature_requests": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "account_management": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    },
+    "NEGATIVE": {
+      "login_issues": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "transaction_problems": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "app_performance": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "user_interface": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "customer_support": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "security_concerns": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "feature_requests": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "account_management": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    }
+  },
+  "common_theme_combinations": [],
+  "theme_insights": [
+    {
+      "type": "most_common_theme",
+      "theme": "login_issues",
+      "count": 0,
+      "percentage": 0.0,
+      "description": "'login_issues' is the most common theme (0.0% of reviews)"
+    },
+    {
+      "type": "bank_specific_theme",
+      "bank": "CBE",
+      "theme": "login_issues",
+      "percentage": 0.0,
+      "description": "For CBE, 'login_issues' is the most common theme (0.0% of reviews)"
+    },
+    {
+      "type": "bank_specific_theme",
+      "bank": "BOA",
+      "theme": "login_issues",
+      "percentage": 0.0,
+      "description": "For BOA, 'login_issues' is the most common theme (0.0% of reviews)"
+    },
+    {
+      "type": "bank_specific_theme",
+      "bank": "Dashen",
+      "theme": "login_issues",
+      "percentage": 0.0,
+      "description": "For Dashen, 'login_issues' is the most common theme (0.0% of reviews)"
+    },
+    {
+      "type": "negative_sentiment_theme",
+      "theme": "login_issues",
+      "percentage": 0.0,
+      "description": "In negative reviews, 'login_issues' is the most common theme (0.0% of negative reviews)"
+    }
+  ]
+}
