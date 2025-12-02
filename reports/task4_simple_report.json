@@ -1,0 +1,120 @@
+{
+  "generated_date": "2025-12-03 02:40:30",
+  "total_reviews": 1200,
+  "banks": [
+    "CBE",
+    "BOA",
+    "Dashen"
+  ],
+  "metrics": {
+    "CBE": {
+      "total_reviews": 400,
+      "avg_rating": 4.1625,
+      "avg_sentiment": 0.6608537319613386,
+      "positive_pct": 91.2,
+      "negative_pct": 1.8,
+      "neutral_pct": 7.0,
+      "top_themes": [
+        "General Feedback"
+      ]
+    },
+    "BOA": {
+      "total_reviews": 400,
+      "avg_rating": 3.3475,
+      "avg_sentiment": 0.611585378671337,
+      "positive_pct": 82.5,
+      "negative_pct": 8.5,
+      "neutral_pct": 9.0,
+      "top_themes": [
+        "General Feedback"
+      ]
+    },
+    "Dashen": {
+      "total_reviews": 400,
+      "avg_rating": 4.06,
+      "avg_sentiment": 0.7343395197502065,
+      "positive_pct": 94.8,
+      "negative_pct": 1.2,
+      "neutral_pct": 4.0,
+      "top_themes": [
+        "General Feedback"
+      ]
+    }
+  },
+  "insights": {
+    "CBE": {
+      "drivers": [
+        "ethiopia",
+        "commercial",
+        "bank",
+        "banking",
+        "transactions"
+      ],
+      "pain_points": [
+        "commercial",
+        "bank",
+        "ethiopia",
+        "very",
+        "frustrating"
+      ],
+      "top_themes": [
+        "General Feedback"
+      ]
+    },
+    "BOA": {
+      "drivers": [
+        "bank",
+        "abyssinia",
+        "banking",
+        "ethiopia",
+        "transactions"
+      ],
+      "pain_points": [
+        "bank",
+        "abyssinia",
+        "poor",
+        "customer",
+        "service"
+      ],
+      "top_themes": [
+        "General Feedback"
+      ]
+    },
+    "Dashen": {
+      "drivers": [
+        "dashen",
+        "bank",
+        "banking",
+        "transactions",
+        "ethiopia"
+      ],
+      "pain_points": [
+        "dashen",
+        "bank",
+        "balance",
+        "errors",
+        "disappointed"
+      ],
+      "top_themes": [
+        "General Feedback"
+      ]
+    }
+  },
+  "recommendations": {
+    "CBE": [
+      "Address issues related to 'commercial'",
+      "Address issues related to 'bank'",
+      "Address issues related to 'ethiopia'"
+    ],
+    "BOA": [
+      "Address issues related to 'bank'",
+      "Address issues related to 'abyssinia'",
+      "Address issues related to 'poor'"
+    ],
+    "Dashen": [
+      "Address issues related to 'dashen'",
+      "Address issues related to 'bank'",
+      "Address issues related to 'balance'"
+    ]
+  }
+}
