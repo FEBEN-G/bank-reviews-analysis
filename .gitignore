@@ -2,7 +2,7 @@
 venv/
 __pycache__/
 *.py[cod]
-*.class
+*$py.class
 *.so
 .Python
 build/
@@ -27,9 +27,11 @@ wheels/
 *.swp
 *.swo
 
-# Data
+# Data - don't commit large data files
 data/raw/*.csv
 data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 
 # Database
 *.db
@@ -51,4 +53,3 @@ Thumbs.db
 
 # Logs
 *.log
-
