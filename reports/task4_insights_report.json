@@ -1,0 +1,115 @@
+{
+  "generated_date": "2025-12-03 02:40:49",
+  "project": "Bank Reviews Analysis - Task 4",
+  "total_reviews_analyzed": 1200,
+  "banks_analyzed": [
+    "CBE",
+    "BOA",
+    "Dashen"
+  ],
+  "key_metrics": {
+    "CBE": {
+      "total_reviews": 400,
+      "avg_rating": 4.1625,
+      "avg_sentiment": 0.6608537319613386,
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "common_themes": {
+        "General Feedback": 400
+      }
+    },
+    "BOA": {
+      "total_reviews": 400,
+      "avg_rating": 3.3475,
+      "avg_sentiment": 0.611585378671337,
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "common_themes": {
+        "General Feedback": 400
+      }
+    },
+    "Dashen": {
+      "total_reviews": 400,
+      "avg_rating": 4.06,
+      "avg_sentiment": 0.7343395197502065,
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "common_themes": {
+        "General Feedback": 400
+      }
+    }
+  },
+  "insights": {
+    "CBE": {
+      "drivers": [],
+      "pain_points": [],
+      "top_themes": [
+        "General Feedback"
+      ]
+    },
+    "BOA": {
+      "drivers": [],
+      "pain_points": [],
+      "top_themes": [
+        "General Feedback"
+      ]
+    },
+    "Dashen": {
+      "drivers": [],
+      "pain_points": [],
+      "top_themes": [
+        "General Feedback"
+      ]
+    }
+  },
+  "recommendations": {
+    "CBE": [],
+    "BOA": [],
+    "Dashen": []
+  },
+  "scenario_analysis": {
+    "scenario_1_retaining_users": {
+      "description": "CBE has 4.2, BOA 3.4, and Dashen 4.1 star rating. Users complain about slow loading during transfers.",
+      "analysis": [
+        "CBE: Slow loading not among top pain points",
+        "BOA: Slow loading not among top pain points",
+        "Dashen: Slow loading not among top pain points",
+        "Rating comparison: {'CBE': 4.1625, 'BOA': 3.3475, 'Dashen': 4.06}"
+      ],
+      "recommendations": [
+        "Implement performance monitoring for transfer operations",
+        "Optimize database queries and cache frequently accessed data",
+        "Add progress indicators during transfers"
+      ]
+    },
+    "scenario_2_enhancing_features": {
+      "description": "Extract desired features through keyword analysis.",
+      "analysis": [
+        "CBE: Desired features - []",
+        "BOA: Desired features - []",
+        "Dashen: Desired features - []"
+      ],
+      "recommendations": [
+        "Prioritize biometric authentication features",
+        "Add budgeting and financial planning tools",
+        "Implement real-time notifications for transactions"
+      ]
+    },
+    "scenario_3_managing_complaints": {
+      "description": "Cluster and track complaints for AI chatbot integration.",
+      "analysis": [
+        "CBE: Top complaints for chatbot - []",
+        "BOA: Top complaints for chatbot - []",
+        "Dashen: Top complaints for chatbot - []"
+      ],
+      "recommendations": [
+        "Train AI chatbot on common complaint patterns",
+        "Implement automated ticket categorization",
+        "Create knowledge base for frequent issues"
+      ]
+    }
+  }
+}
